@@ -1,4 +1,4 @@
-## While taking an online TensorFlow/Keras course, I made these:
+## While learning TensorFlow 2 and Keras, I made these:
 
 Regression:  
 Convolutional Neural Network  
