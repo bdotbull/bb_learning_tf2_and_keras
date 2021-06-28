@@ -1,6 +1,7 @@
 ## While learning TensorFlow 2 and Keras, I made these:
 
-Regression:  
+Regression:
+Classification  
 Convolutional Neural Network  
 Recurrent Neural Network  
 Natural Language Processing  
