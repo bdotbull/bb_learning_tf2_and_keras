@@ -1,2 +1,5 @@
 # Too Large
 data/lending_club_loan_two.csv
+
+# Unnecessary Logs
+classification/logs
