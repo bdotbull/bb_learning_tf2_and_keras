@@ -69,3 +69,21 @@ board = TensorBoard(log_dir=log_directory, histogram_freq=1,
         embeddings_freq: frequency (in epochs) at which embedding layers will
           be visualized. If set to 0, embeddings won't be visualized.
 """
+
+model = Sequential()
+
+model.add(Dense(30, activation='relu'))   # input layer
+model.add(Dropout(0.5))
+model.add(Dense(15, activation='relu'))   # hidden layer
+model.add(Dropout(0.5))
+model.add(Dense(1, activation='sigmoid')) # output layer
+
+model.compile(loss='binary_crossentropy', optimizer='adam')
+
+# Training
+model.fit(x=X_train,
+          y=y_train,
+          epochs=500,
+          validation_data=(X_test, y_test),
+          verbose=1,
+          callbacks=[early_stop, board])
