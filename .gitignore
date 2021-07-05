@@ -2,4 +2,4 @@
 data/lending_club_loan_two.csv
 
 # Unnecessary Logs
-topics/classification/logs
+topics/ann/classification/logs
