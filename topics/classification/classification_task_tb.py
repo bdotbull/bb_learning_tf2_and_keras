@@ -12,7 +12,7 @@ from tensorflow.keras.callbacks import EarlyStopping, TensorBoard
 
 from datetime import datetime
 
-df = pd.read_csv('../data/cancer_classification.csv')
+df = pd.read_csv('../../data/cancer_classification.csv')
 
 # Train-Test-Split
 # Target --> `benign_0_mal_1`
