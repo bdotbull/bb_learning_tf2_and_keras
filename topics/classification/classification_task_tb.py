@@ -16,8 +16,8 @@ df = pd.read_csv('../../data/cancer_classification.csv')
 
 # Train-Test-Split
 # Target --> `benign_0_mal_1`
-X = df.drop('benign_0_mal_1', axis=1).values
-y = df['benign_0_mal_1'].values
+X = df.drop('benign_0__mal_1', axis=1).values
+y = df['benign_0__mal_1'].values
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
 
