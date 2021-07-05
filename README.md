@@ -9,7 +9,8 @@
     - [Task with TensorBoard](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/ann/classification/classification_task_tb.ipynb)  
     - [Project](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/ann/classification/classification_project.ipynb)  
 
-[Convolutional Neural Network](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/cnn)  
+
+[Convolutional Neural Networks](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/cnn)  
 Recurrent Neural Network  
 Natural Language Processing  
 AutoEncoders  
