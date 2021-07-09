@@ -1,3 +1,9 @@
+# VS Code
+.vscode
+
+# Notebook Checkpoints
+*.ipynb_checkpoints
+
 # Too Large
 data/lending_club_loan_two.csv
 
