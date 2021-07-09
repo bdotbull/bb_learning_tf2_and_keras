@@ -6,6 +6,7 @@
 
 # Too Large
 data/lending_club_loan_two.csv
+data/cell_images
 
 # Unnecessary Logs
 topics/ann/classification/logs
