@@ -10,7 +10,11 @@
     - [Project](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/ann/classification/classification_project.ipynb)  
 
 
-[Convolutional Neural Networks](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/cnn)  
+- [Convolutional Neural Networks](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/cnn)  
+    - [MNIST](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/cnn/cnn_mnist.ipynb)
+    - [CIFAR-10](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/cnn/cnn_cifar.ipynb)  
+    - [Cell Image Data](https://github.com/bdotbull/bb_learning_tf2_and_keras/blob/main/topics/cnn/cnn_cell_images.ipynb)
+
 Recurrent Neural Network  
 Natural Language Processing  
 AutoEncoders  
